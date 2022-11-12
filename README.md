@@ -1,7 +1,7 @@
-# Bi-1DCNN
+# Be-1DCNN
 
 #### 介绍
-Neural network model for chromatin loop prediction based on bagging integrated learning
+Neural network model for chromatin loop prediction based on bagging ensemble learning
 
 
 #### 安装教程
